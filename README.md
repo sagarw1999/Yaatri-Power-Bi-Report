@@ -15,7 +15,8 @@ Operational efficiency improvements
 <img width="1203" height="670" alt="Screenshot 2026-01-27 070329" src="https://github.com/user-attachments/assets/b8094561-8669-48b8-8215-8dadce7bf22e" />
 <img width="1195" height="667" alt="Screenshot 2026-01-27 070352" src="https://github.com/user-attachments/assets/dbc58ba8-0109-47f5-b943-35e3dbce328f" />
 
-<img width="608" height="373" alt="image" src="https://github.com/user-attachments/assets/ba9cd5ea-5f8a-4d9f-9634-1f3eca463a51" />
+<img width="1195" height="667" alt="image" src="https://github.com/user-attachments/assets/fe5c83db-605e-41da-b8cd-8647d752bbd2" />
+<img width="1195" height="667" alt="image" src="https://github.com/user-attachments/assets/f236fcc0-3d5c-4fcd-91ea-ea6e17d5a71a" />
 
 
 📊 Key Insights & Features
